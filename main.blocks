@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Xkj$/jSXGaN4a=TRujh2" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="Ff#+v,7w-A#]E8!L%GMh"><field name="i">IconNames.Umbrella</field></block></statement></block><block type="device_forever" id="D*zIv6wk1LiiAeqJ3rt!" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="EZj2E$+9=1hcm5[Dimx|"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="9]T|n~|c?_b{;Fh;4J%M"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="device_button_event" id="34x.[}l!zi;7lu%a}rcx" x="568" y="-9"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="T}Ol/RLE;tKbew:6..]t"><field name="i">IconNames.Happy</field><next><block type="basic_show_icon" id="5#wky;y]lKo3w1SC:qKk"><field name="i">IconNames.Umbrella</field></block></next></block></statement></block><block type="device_button_event" id="(aNy6#og`kovA%enU69z" x="566" y="241"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="Zi?m+SEP9b#LRF!EH5JY"><field name="i">IconNames.Sad</field><next><block type="basic_show_icon" id="NOqSJgh}3hk*(9T0Qj48"><field name="i">IconNames.Umbrella</field></block></next></block></statement></block></xml>
